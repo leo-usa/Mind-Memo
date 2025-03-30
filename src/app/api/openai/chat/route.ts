@@ -1,0 +1,1 @@
+For each note, it has icons for fucnctions: clear, translate (into English), summary, medical note. All use OpenAI model to generate the new note: Clear: it re-write the notes based on its sounds and meanings. Translate: translate the note into English. Summary: summarize the note. Medical note: re-write the note in a style that doctors and nurses use.
